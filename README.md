@@ -29,10 +29,10 @@ body {background:#ADD8E6;}
 <h2> Trip #4: Taipei </h2> 
 <p> eating starbursts minis from allie and doing this website </p>
 
-<h2> ap lang </h2> 
+<h2> Future Trip: Prague </h2> 
 <p> gonna do activity with sibs, and she gave me chanel bag like wtf but thanks g </p> 
 
-<h2> math analysis </h2>
+<h2> Future Trip: Tokyo </h2>
 <p> gonna prob watch lecture and do hw and hopefully class does not find out bday or else gonna start singing and then smh </p>
 
 
