@@ -75,7 +75,39 @@ My trip to London was a blend of history and modernity, tradition and innovation
 <img src="https://mail.google.com/mail/u/0?ui=2&ik=3e1c58b286&attid=0.1.1&permmsgid=msg-f:1778068196874143728&th=18acf79abd1a47f0&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ9Pa9qszx05TENHlc5SE6DCbJQo1tQ7MVgr1a_mTxEk4GOc12pK15YBBBPSLi1dufGbK4g5JCmw6McdlVvkTvDOXoRyvMLhdiJXT0554R-dcxJhFspu2nWT4ys&disp=emb" width="500" height="600">
 
 <h2> Trip #3: Paris, France </h2>
-<p> watched euphoria with elinna liu while doing dbq stuff </p>
+<p> Paris, the city of love, has always held an undeniable allure for me. From the moment I set foot in the City of Light, I was swept away by its charm, elegance, and rich history. Here's a glimpse into my whirlwind adventure through Paris, a city that captured my heart. <br>
+
+<b>Wandering the Champs-Élysées: An Iconic Start</b><br>
+
+My journey began on the world-famous Champs-Élysées, a street known for its luxury boutiques, cafes, and theaters. The bustling atmosphere and grandeur of the Arc de Triomphe at the western end set the stage for an incredible exploration of Paris.<br>
+
+<b>Eiffel Tower: A Symbol of Romance</b><br>
+
+Of course, no visit to Paris would be complete without ascending the Eiffel Tower. The panoramic views from its observation decks were awe-inspiring, offering a breathtaking perspective of the entire city. The Iron Lady's sparkling lights at night added a touch of magic to my Parisian nights.<br>
+
+<b>Louvre: Art and History Under One Roof</b><br>
+
+A visit to the Louvre was an art lover's dream come true. While the Mona Lisa was undoubtedly a highlight, the museum's vast collection left me in awe. I wandered through galleries filled with masterpieces, each piece telling a story of history and human creativity.<br>
+
+<b>Strolling Along the Seine: A Quaint Retreat</b><br>
+
+Walking along the banks of the River Seine was a romantic experience. I crossed charming bridges, spotted iconic landmarks like Notre-Dame Cathedral, and enjoyed picnics in the riverside gardens. The Seine's picturesque views revealed the heart and soul of Paris.<br>
+
+<b>Montmartre and Sacré-Cœur: A Bohemian Escape</b><br>
+
+Montmartre, with its artistic heritage, offered a taste of old-world Paris. I wandered through cobblestone streets, soaking in the bohemian atmosphere. The visit to the Sacré-Cœur Basilica, with its stunning white domes, provided a breathtaking panorama of the city below.<br>
+
+<b>Café Culture: Sipping Café au Lait<br>
+
+Paris is renowned for its café culture, and I indulged in numerous café au lait breaks. People-watching from the sidewalk tables, I savored delicate pastries and observed the rhythmic pulse of Parisian life.<br>
+
+<b>Indulging in French Cuisine: Croissants to Crème Brûlée</b><br>
+
+No trip to Paris is complete without savoring its delectable cuisine. From buttery croissants at a corner patisserie to gourmet dinners at quaint bistros, each meal was a culinary delight. Crème brûlée was a particular favorite, but every dish had a touch of French elegance.<br>
+
+<b>Conclusion: An Ode to Paris</b><br>
+
+My journey through Paris was a poetic symphony of art, history, romance, and exquisite cuisine. The city's beauty, culture, and sophistication were a marvel to behold, and I left with a promise to return someday. Paris had cast its spell on me, and I knew I would forever cherish the memories made in this enchanting city. À bientôt, Paris! </p><br>
 <img src="https://mail.google.com/mail/u/0?ui=2&ik=3e1c58b286&attid=0.1.1&permmsgid=msg-f:1778068172968381397&th=18acf7952c354bd5&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ-6MZstNMVtB4Ue3i5BM4D0bwrmjLEBGyQkZtfQhMynI69gFAk7N_5a8SsMbAXQtWWGawlnNzxKdZsxCVVcTuHRvCJhzaDT9gmgtUiJM8fuLnzd40mpbp4rlt4&disp=emb" width="500" height="600">
 
 <h2> Trip #4: Taipei, Taiwan </h2> 
