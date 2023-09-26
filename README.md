@@ -111,7 +111,35 @@ My journey through Paris was a poetic symphony of art, history, romance, and exq
 <img src="https://mail.google.com/mail/u/0?ui=2&ik=3e1c58b286&attid=0.1.1&permmsgid=msg-f:1778068172968381397&th=18acf7952c354bd5&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ-6MZstNMVtB4Ue3i5BM4D0bwrmjLEBGyQkZtfQhMynI69gFAk7N_5a8SsMbAXQtWWGawlnNzxKdZsxCVVcTuHRvCJhzaDT9gmgtUiJM8fuLnzd40mpbp4rlt4&disp=emb" width="500" height="600">
 
 <h2> Trip #4: Taipei, Taiwan </h2> 
-<p> eating starbursts minis from allie and doing this website </p>
+<p> Taipei, the bustling capital of Taiwan, is a city that marries rich history and modernity seamlessly. Exploring this vibrant metropolis was an adventure I'll forever cherish. Here's a glimpse into my enthralling journey through the heart of Taipei.<br>
+
+<b>Temples and Tradition: A Glimpse into Taiwan's Heritage</b><br>
+
+My journey began with a visit to Longshan Temple, an enchanting Buddhist temple that's not just a place of worship but a window into Taiwan's rich cultural heritage. The air was filled with the scent of burning incense, and the intricate architecture transported me back in time.<br>
+
+<b>Taipei 101: Skyscrapers Touching the Sky</b><br>
+
+The iconic Taipei 101, formerly the world's tallest building, was an architectural masterpiece that beckoned me to the top. The views from the observatory on the 89th floor were simply breathtaking, offering a panoramic view of the city's modern skyline against the backdrop of lush mountains.<br>
+
+<b>Street Food Delights: Taipei's Culinary Scene</b><br>
+
+Taipei is a paradise for food lovers. Exploring the bustling night markets was an adventure in itself. From xiao long bao (soup dumplings) to stinky tofu and bubble tea, the street food scene was a sensory overload. Each bite was a delicious discovery.<br>
+
+<b>Cultural Exploration: National Palace Museum</b><br>
+
+A visit to the National Palace Museum was a deep dive into Taiwan's history and art. The museum's collection of ancient Chinese artifacts and priceless treasures was a testament to the region's rich cultural legacy. The Jadeite Cabbage, a prized exhibit, was truly captivating.<br>
+
+<b>Natural Escapes: Yangmingshan National Park</b><br>
+
+Venturing beyond the city, I explored the lush landscapes of Yangmingshan National Park. The hot springs, rolling hills, and vibrant flora were a welcome escape from the urban hustle. Hiking through the volcanic terrain was an adventure filled with breathtaking vistas.<br>
+
+<b>Modern Tranquility: Daan Forest Park</b><br>
+
+In contrast to the bustling streets, Daan Forest Park offered a serene retreat in the heart of Taipei. I picnicked under the shade of lush trees, strolled around the serene pond, and watched locals practice tai chi—a perfect escape from the city's vibrant energy.<br>
+
+<b>Conclusion: Taipei's Tapestry of Beauty and Culture</b><br>
+
+My journey through Taipei was a tapestry woven with threads of tradition, modernity, and natural splendor. The city's striking contrast between historic temples and towering skyscrapers, flavorful street food and cultural richness, created an unforgettable experience. As I bid farewell to this captivating city, I carried with me the warmth of its people and the memories of an incredible adventure. Taipei, you've left an indelible mark on my heart. Until we meet again! </p><br>
 
 <h2> Trip #5: Leon, Mexico </h2> 
 <p> gonna do activity with sibs, and she gave me chanel bag like wtf but thanks g </p> 
