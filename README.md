@@ -20,10 +20,11 @@ body {background:#ADD8E6;}
 
 <h2> Trip #2: London </h2>
 <p> watched euphoria with callie ng, she also gave me a gift card so thanks g </p>
+<img src="https://mail.google.com/mail/u/0/popout?ver=1g3ytthb29lwb#attid%253Datt_18acf79abd1a47f0_0.1.1_f0d7c1d0_6475c25b_89ec7c0c_deb1c034_404e3d2a%25252FIMG-4312.jpg">
 
 <h2> Trip #3: Paris </h2>
 <p> watched euphoria with elinna liu while doing dbq stuff </p>
-<img src="IMG-4420">
+<img src="https://mail.google.com/mail/u/0?ui=2&ik=3e1c58b286&attid=0.1.1&permmsgid=msg-f:1778068172968381397&th=18acf7952c354bd5&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ-6MZstNMVtB4Ue3i5BM4D0bwrmjLEBGyQkZtfQhMynI69gFAk7N_5a8SsMbAXQtWWGawlnNzxKdZsxCVVcTuHRvCJhzaDT9gmgtUiJM8fuLnzd40mpbp4rlt4&disp=emb">
 
 <h2> Trip #4: Taipei </h2> 
 <p> eating starbursts minis from allie and doing this website </p>
@@ -34,6 +35,5 @@ body {background:#ADD8E6;}
 <h2> math analysis </h2>
 <p> gonna prob watch lecture and do hw and hopefully class does not find out bday or else gonna start singing and then smh </p>
 
-<img src="https://mail.google.com/mail/u/0?ui=2&ik=3e1c58b286&attid=0.1.1&permmsgid=msg-f:1778068172968381397&th=18acf7952c354bd5&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ-6MZstNMVtB4Ue3i5BM4D0bwrmjLEBGyQkZtfQhMynI69gFAk7N_5a8SsMbAXQtWWGawlnNzxKdZsxCVVcTuHRvCJhzaDT9gmgtUiJM8fuLnzd40mpbp4rlt4&disp=emb">
 
 </html>
