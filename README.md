@@ -97,7 +97,7 @@ Walking along the banks of the River Seine was a romantic experience. I crossed 
 
 Montmartre, with its artistic heritage, offered a taste of old-world Paris. I wandered through cobblestone streets, soaking in the bohemian atmosphere. The visit to the Sacré-Cœur Basilica, with its stunning white domes, provided a breathtaking panorama of the city below.<br>
 
-<b>Café Culture: Sipping Café au Lait<br>
+<b>Café Culture: Sipping Café au Lait</b><br>
 
 Paris is renowned for its café culture, and I indulged in numerous café au lait breaks. People-watching from the sidewalk tables, I savored delicate pastries and observed the rhythmic pulse of Parisian life.<br>
 
@@ -142,11 +142,41 @@ In contrast to the bustling streets, Daan Forest Park offered a serene retreat i
 My journey through Taipei was a tapestry woven with threads of tradition, modernity, and natural splendor. The city's striking contrast between historic temples and towering skyscrapers, flavorful street food and cultural richness, created an unforgettable experience. As I bid farewell to this captivating city, I carried with me the warmth of its people and the memories of an incredible adventure. Taipei, you've left an indelible mark on my heart. Until we meet again! </p><br>
 
 <h2> Trip #5: Leon, Mexico </h2> 
-<p> gonna do activity with sibs, and she gave me chanel bag like wtf but thanks g </p> 
+<p> Nestled in the heart of Guanajuato, Mexico, León is a vibrant city known for its rich culture, stunning architecture, and warm-hearted locals. My recent trip to this charming destination was a journey of discovery and adventure. Here's a glimpse into my unforgettable experiences in León, Mexico.<br>
 
-<h2> Future Trip: Prague </h2>
+<b>León's Zócalo: A Warm Welcome to the Heart of the City</b><br>
 
-<h1> <em> Want to See More travel Photos? </em> </h1>
+My journey began in the city's historic Zócalo, the central square surrounded by colorful colonial buildings. The lively atmosphere, bustling markets, and street musicians immediately introduced me to the warm and welcoming spirit of León. Here, I had my first taste of traditional Mexican cuisine, with street vendors offering mouthwatering tacos and elotes.<br>
+
+<b>Shopping Haven: The Leather Capital of Mexico</b><br>
+
+León is renowned as the leather capital of Mexico, and a visit to the city's leather markets was a shopper's paradise. From stylish boots to beautifully crafted leather goods, the markets were a treasure trove for leather enthusiasts. The opportunity to watch skilled craftsmen at work was a unique experience.<br>
+
+<b>Cultural Gems: Temples and Historic Sites</b><br>
+
+Exploring the city's historic district, I discovered several ornate churches and temples that bore witness to León's rich history. The Basílica Catedral de León and the Templo Expiatorio del Sagrado Corazón were architectural marvels that left me in awe. Each step was a journey back in time.<br>
+
+<b>San Felipe: A Pueblo Mágico Retreat</b><br>
+
+A short drive from León, San Felipe was a picturesque escape from the city's hustle. As one of Mexico's Pueblos Mágicos, this charming town captivated me with its serene atmosphere and well-preserved colonial architecture. The breathtaking landscapes of San Felipe offered endless opportunities for hiking and exploration.<br>
+
+<b>Feria de León: A Carnival of Tradition</b><br>
+
+My visit coincided with the Feria de León, one of Mexico's most celebrated fairs. The lively event was a sensory delight, with colorful parades, lively music, and mouthwatering street food. It was a chance to immerse myself in the local culture and traditions.<br>
+
+<b>Delicious Fare: From Street Tacos to Fine Dining</b><br>
+
+The culinary scene in León was a true highlight of my trip. From savoring delicious street tacos to enjoying gourmet meals at local restaurants, I was continuously treated to a culinary adventure. Traditional dishes like birria and carnitas were a must-try.<br>
+
+<b>Conclusion: León's Enchanting Tapestry</b><br>
+
+My journey to León, Mexico, was a tapestry woven with threads of history, tradition, and contemporary flair. The city's warm and welcoming atmosphere, vibrant culture, and delicious cuisine left me with lasting memories. As I bid adieu to this enchanting destination, I knew that I had uncovered just a fraction of its hidden treasures. León, you've found a special place in my heart, and I look forward to returning to explore even more of your charm. ¡Hasta pronto, León! </p> 
+<br>
+
+<h2> Future Trip: Prague </h2><br>
+<p>The trip will be TBD (probably happening in Spring Break of 2024 but maybe not</p>
+
+<h1> <em> Want to See More Travel Photos? </em> </h1>
 <a href="gallery.html"><h2>Click here to see Alex's Travel Photos</h2></a>
 
 
