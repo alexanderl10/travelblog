@@ -37,7 +37,7 @@ For a perfect end to my days, I would head to Haleiwa Beach Park on Oahu's North
 
 My trip to Honolulu, Hawaii, was more than just a vacation; it was a transformative experience. Honolulu offered a captivating blend of natural beauty, history, culture, and unforgettable moments. I left the island with a piece of my heart and a promise to return someday to explore even more of this paradise on Earth. Aloha, Hawaii – until we meet again! </p> <br>
 
-<img src="https://github.com/alexanderl10/travelblog.github.io/blob/main/IMG_3444.HEIC" width="800" height="600">
+<img src"IMG_3444.HEIC" width="800" height="600">
 
 <h2> Trip #2: London, England </h2>
 <p> London, the bustling and historic capital of the United Kingdom, has always held a special place on my travel bucket list. Finally, the stars aligned, and I embarked on a journey that would introduce me to the vibrant tapestry of this iconic city. Here's a glimpse into my unforgettable trip to London.<br>
@@ -69,7 +69,7 @@ London's vast green spaces provided a serene escape from the city's hustle and b
 <b>Conclusion: A Tale of Two Cities in One</b><br>
 
 My trip to London was a blend of history and modernity, tradition and innovation. The city's timeless charm, iconic landmarks, and warm-hearted people left a lasting impression. As I bid adieu to this captivating metropolis, I carried a piece of London in my heart, knowing that its allure will always beckon me to return and explore more of its hidden treasures. London, you have my heart. Until we meet again! </p><br>
-<img src="https://github.com/alexanderl10/travelblog.github.io/blob/main/IMG-4312.jpg" width="800" height="600">
+<img src="IMG-4312.jpg" width="800" height="600">
 
 <h2> Trip #3: Paris, France </h2>
 <p> Paris, the city of love, has always held an undeniable allure for me. From the moment I set foot in the City of Light, I was swept away by its charm, elegance, and rich history. Here's a glimpse into my whirlwind adventure through Paris, a city that captured my heart. <br>
@@ -105,7 +105,7 @@ No trip to Paris is complete without savoring its delectable cuisine. From butte
 <b>Conclusion: An Ode to Paris</b><br>
 
 My journey through Paris was a poetic symphony of art, history, romance, and exquisite cuisine. The city's beauty, culture, and sophistication were a marvel to behold, and I left with a promise to return someday. Paris had cast its spell on me, and I knew I would forever cherish the memories made in this enchanting city. À bientôt, Paris! </p><br>
-<img src="https://github.com/alexanderl10/travelblog.github.io/blob/main/IMG-4420.jpg" width="500" height="600">
+<img src="IMG-4420.jpg" width="500" height="600">
 
 <h2> Trip #4: Taipei, Taiwan </h2> 
 <p> Taipei, the bustling capital of Taiwan, is a city that marries rich history and modernity seamlessly. Exploring this vibrant metropolis was an adventure I'll forever cherish. Here's a glimpse into my enthralling journey through the heart of Taipei.<br>
