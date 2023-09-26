@@ -40,6 +40,8 @@ For a perfect end to my days, I would head to Haleiwa Beach Park on Oahu's North
 
 My trip to Honolulu, Hawaii, was more than just a vacation; it was a transformative experience. Honolulu offered a captivating blend of natural beauty, history, culture, and unforgettable moments. I left the island with a piece of my heart and a promise to return someday to explore even more of this paradise on Earth. Aloha, Hawaii – until we meet again! </p> <br>
 
+<img src="https://mail.google.com/mail/u/0?ui=2&ik=3e1c58b286&attid=0.1.1&permmsgid=msg-f:1778074016435972441&th=18acfce5b604a959&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ9WlfT_BWbYHe32OlREQp-52z-8EItyBB_Y-x6bvH-YFzYUU13IMFP7G35tdNF99HGjGHaA2I9BEA2k1iWwhRVnD3L_QqgpXG_Mf1dBC4gwFdDFYqQ2guYzCeQ&disp=emb" width="500" height="600">
+
 <h2> Trip #2: London, England </h2>
 <p> London, the bustling and historic capital of the United Kingdom, has always held a special place on my travel bucket list. Finally, the stars aligned, and I embarked on a journey that would introduce me to the vibrant tapestry of this iconic city. Here's a glimpse into my unforgettable trip to London.<br>
 
@@ -138,6 +140,8 @@ In contrast to the bustling streets, Daan Forest Park offered a serene retreat i
 <b>Conclusion: Taipei's Tapestry of Beauty and Culture</b><br>
 
 My journey through Taipei was a tapestry woven with threads of tradition, modernity, and natural splendor. The city's striking contrast between historic temples and towering skyscrapers, flavorful street food and cultural richness, created an unforgettable experience. As I bid farewell to this captivating city, I carried with me the warmth of its people and the memories of an incredible adventure. Taipei, you've left an indelible mark on my heart. Until we meet again! </p><br>
+
+<img src="https://mail.google.com/mail/u/0?ui=2&ik=3e1c58b286&attid=0.1.1&permmsgid=msg-f:1778073977347903708&th=18acfcdc9c3010dc&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ-zvRgdefbC_o7E2fD8IR6mRKLxbHCGbOq30DTlTdW8wYsiueowus1wxm3TAEbx_bsMIq4137j092SEqSSQ2k7w47lko3M6152ypEOt_z2biT-V3KQJlh4ownU&disp=emb" width="500" height="600">
 
 <h2> Trip #5: Leon, Mexico </h2> 
 <p> Nestled in the heart of Guanajuato, Mexico, León is a vibrant city known for its rich culture, stunning architecture, and warm-hearted locals. My recent trip to this charming destination was a journey of discovery and adventure. Here's a glimpse into my unforgettable experiences in León, Mexico.<br>
