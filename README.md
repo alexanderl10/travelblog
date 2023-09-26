@@ -1,5 +1,3 @@
-# travelblog
-Travel Blog !!
 <!DOCTYPE html>
 <html>
 
