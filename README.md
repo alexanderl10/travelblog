@@ -87,7 +87,7 @@ My trip to London was a blend of history and modernity, tradition and innovation
 <h2> Future Trip: Prague </h2>
 
 <h1> <em> Want to See More travel Photos? </em> </h1>
-<a href="travelblog.github.io/gallery"><h2>Click here to see Alex's Travel Photos</h2></a>
+<a href="gallery.html"><h2>Click here to see Alex's Travel Photos</h2></a>
 
 
 
