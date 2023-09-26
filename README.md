@@ -16,31 +16,31 @@ body {background:#ADD8E6;}
 <h1> Travel Blog with Alex </h1>
 
 <h2> Trip #1: hawaii </h2>
-<p> The moment my plane touched down on the runway of Daniel K. Inouye International Airport, the spirit of aloha enveloped me. The gentle breeze, warm smiles, and fragrant leis offered by welcoming locals signaled the start of my Hawaiian adventure.
+<p> The moment my plane touched down on the runway of Daniel K. Inouye International Airport, the spirit of aloha enveloped me. The gentle breeze, warm smiles, and fragrant leis offered by welcoming locals signaled the start of my Hawaiian adventure. <br>
 
-<b>Waikiki Beach: A Postcard in Reality</b>
+<b>Waikiki Beach: A Postcard in Reality</b> <br>
 
-No trip to Honolulu is complete without a visit to the iconic Waikiki Beach. As I strolled along the pristine shoreline, I marveled at the Diamond Head Crater, a picturesque backdrop to the glistening turquoise waters. It felt like I was walking inside a postcard, surrounded by surfers catching the perfect wave and sunbathers enjoying the tropical sun.
+No trip to Honolulu is complete without a visit to the iconic Waikiki Beach. As I strolled along the pristine shoreline, I marveled at the Diamond Head Crater, a picturesque backdrop to the glistening turquoise waters. It felt like I was walking inside a postcard, surrounded by surfers catching the perfect wave and sunbathers enjoying the tropical sun. <br>
 
-<b>Historical Adventures: Pearl Harbor</b>
+<b>Historical Adventures: Pearl Harbor</b> <br>
 
-Honolulu is not just about natural beauty; it's also a place with a rich history. I visited Pearl Harbor, a sobering and poignant experience. Standing at the USS Arizona Memorial, I paid my respects to the brave servicemen and women who lost their lives during the infamous attack in 1941. It was a humbling reminder of the sacrifices made for freedom.
+Honolulu is not just about natural beauty; it's also a place with a rich history. I visited Pearl Harbor, a sobering and poignant experience. Standing at the USS Arizona Memorial, I paid my respects to the brave servicemen and women who lost their lives during the infamous attack in 1941. It was a humbling reminder of the sacrifices made for freedom. <br>
 
-<b>Culinary Delights: A Taste of Hawaii</b>
+<b>Culinary Delights: A Taste of Hawaii</b> <br>
 
-Hawaii's unique culinary scene is a fusion of cultures, with influences from Japan, China, the Philippines, and more. I couldn't resist trying some authentic Hawaiian dishes like poke (raw fish salad), loco moco (a hearty meal of rice, burger patty, fried egg, and gravy), and the delectable malasadas (Portuguese doughnuts). Each bite was a burst of tropical flavors that left me craving for more.
+Hawaii's unique culinary scene is a fusion of cultures, with influences from Japan, China, the Philippines, and more. I couldn't resist trying some authentic Hawaiian dishes like poke (raw fish salad), loco moco (a hearty meal of rice, burger patty, fried egg, and gravy), and the delectable malasadas (Portuguese doughnuts). Each bite was a burst of tropical flavors that left me craving for more. <br>
 
-<b>Hiking to Heaven: Diamond Head State Monument</b>
+<b>Hiking to Heaven: Diamond Head State Monument</b> <br>
 
-My adventure-seeking side led me to hike up the Diamond Head State Monument. The trail offered panoramic views of the city and the Pacific Ocean, a reward well worth the challenging climb. The sight of the island's lush landscape from the summit was breathtaking, and it's an experience I'll never forget.
+My adventure-seeking side led me to hike up the Diamond Head State Monument. The trail offered panoramic views of the city and the Pacific Ocean, a reward well worth the challenging climb. The sight of the island's lush landscape from the summit was breathtaking, and it's an experience I'll never forget. <br>
 
-<b>Sunset Magic: Haleiwa Beach Park</b>
+<b>Sunset Magic: Haleiwa Beach Park</b> <br>
 
-For a perfect end to my days, I would head to Haleiwa Beach Park on Oahu's North Shore to witness the mesmerizing Hawaiian sunsets. As the sun dipped below the horizon, it painted the sky with hues of orange, pink, and purple. It was an ethereal experience that left me feeling both humbled and connected to the beauty of nature.
+For a perfect end to my days, I would head to Haleiwa Beach Park on Oahu's North Shore to witness the mesmerizing Hawaiian sunsets. As the sun dipped below the horizon, it painted the sky with hues of orange, pink, and purple. It was an ethereal experience that left me feeling both humbled and connected to the beauty of nature. <br>
 
-<b>Conclusion: A Piece of My Heart in Honolulu</b>
+<b>Conclusion: A Piece of My Heart in Honolulu</b> <br>
 
-My trip to Honolulu, Hawaii, was more than just a vacation; it was a transformative experience. Honolulu offered a captivating blend of natural beauty, history, culture, and unforgettable moments. I left the island with a piece of my heart and a promise to return someday to explore even more of this paradise on Earth. Aloha, Hawaii – until we meet again! </p>
+My trip to Honolulu, Hawaii, was more than just a vacation; it was a transformative experience. Honolulu offered a captivating blend of natural beauty, history, culture, and unforgettable moments. I left the island with a piece of my heart and a promise to return someday to explore even more of this paradise on Earth. Aloha, Hawaii – until we meet again! </p> <br>
 
 <h2> Trip #2: London, England </h2>
 <p> watched euphoria with callie ng, she also gave me a gift card so thanks g </p>
