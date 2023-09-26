@@ -175,6 +175,8 @@ The culinary scene in León was a true highlight of my trip. From savoring delic
 My journey to León, Mexico, was a tapestry woven with threads of history, tradition, and contemporary flair. The city's warm and welcoming atmosphere, vibrant culture, and delicious cuisine left me with lasting memories. As I bid adieu to this enchanting destination, I knew that I had uncovered just a fraction of its hidden treasures. León, you've found a special place in my heart, and I look forward to returning to explore even more of your charm. ¡Hasta pronto, León! </p> 
 <br>
 
+<img src="[https://mail.google.com/mail/u/0?ui=2&ik=3e1c58b286&attid=0.1.1&permmsgid=msg-f:1778074016435972441&th=18acfce5b604a959&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ9WlfT_BWbYHe32OlREQp-52z-8EItyBB_Y-x6bvH-YFzYUU13IMFP7G35tdNF99HGjGHaA2I9BEA2k1iWwhRVnD3L_QqgpXG_Mf1dBC4gwFdDFYqQ2guYzCeQ&disp=emb](https://mail.google.com/mail/u/0?ui=2&ik=3e1c58b286&attid=0.1.1&permmsgid=msg-f:1778074495955262692&th=18acfd555b985ce4&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ8K60Ni9WozZ27QYDFBQc0hFqeWc-77tcyXVw7CAXlRROY8WDHeKYeV5uc5Vt2-5BpzPN-BPc5NQ-9iplHJzHffWb_d3OxTgk34XxBmVktWSdYNXdMOseCbUkU&disp=emb)https://mail.google.com/mail/u/0?ui=2&ik=3e1c58b286&attid=0.1.1&permmsgid=msg-f:1778074495955262692&th=18acfd555b985ce4&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ8K60Ni9WozZ27QYDFBQc0hFqeWc-77tcyXVw7CAXlRROY8WDHeKYeV5uc5Vt2-5BpzPN-BPc5NQ-9iplHJzHffWb_d3OxTgk34XxBmVktWSdYNXdMOseCbUkU&disp=emb" width="800" height="600">
+
 <h2> Future Trip: Prague </h2>
 <p>The trip will be TBD (probably happening in Spring Break of 2024 but maybe not</p>
 
