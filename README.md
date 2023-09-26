@@ -37,7 +37,7 @@ For a perfect end to my days, I would head to Haleiwa Beach Park on Oahu's North
 
 My trip to Honolulu, Hawaii, was more than just a vacation; it was a transformative experience. Honolulu offered a captivating blend of natural beauty, history, culture, and unforgettable moments. I left the island with a piece of my heart and a promise to return someday to explore even more of this paradise on Earth. Aloha, Hawaii – until we meet again! </p> <br>
 
-<img src"IMG_3444.HEIC" width="800" height="600">
+<img src"IMG_0122.jpeg" width="800" height="600">
 
 <h2> Trip #2: London, England </h2>
 <p> London, the bustling and historic capital of the United Kingdom, has always held a special place on my travel bucket list. Finally, the stars aligned, and I embarked on a journey that would introduce me to the vibrant tapestry of this iconic city. Here's a glimpse into my unforgettable trip to London.<br>
