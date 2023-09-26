@@ -34,7 +34,9 @@ body {background:#ADD8E6;}
 
 <h2> Future Trip: Tokyo </h2>
 
-<h1> <em> Gallery Pictures of Travel Photos </em> </h1>
+<h1> <em> Want to See More travel Photos? </em> </h1>
+<a href="./gallery"><h2>Click here to see Alex's Travel Photos</h2></a>
+
 
 
 
