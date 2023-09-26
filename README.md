@@ -1,7 +1,4 @@
-
 <html>
-
-
 
 <head>
 <title> Travel Blog with Alex </title>
