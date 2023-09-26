@@ -20,7 +20,7 @@ body {background:#ADD8E6;}
 
 <h2> Trip #2: London </h2>
 <p> watched euphoria with callie ng, she also gave me a gift card so thanks g </p>
-<img src="https://mail.google.com/mail/u/0/popout?ver=1g3ytthb29lwb#attid%253Datt_18acf79abd1a47f0_0.1.1_f0d7c1d0_6475c25b_89ec7c0c_deb1c034_404e3d2a%25252FIMG-4312.jpg">
+<img src="https://mail.google.com/mail/u/0?ui=2&ik=3e1c58b286&attid=0.1.1&permmsgid=msg-f:1778068196874143728&th=18acf79abd1a47f0&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ9Pa9qszx05TENHlc5SE6DCbJQo1tQ7MVgr1a_mTxEk4GOc12pK15YBBBPSLi1dufGbK4g5JCmw6McdlVvkTvDOXoRyvMLhdiJXT0554R-dcxJhFspu2nWT4ys&disp=emb">
 
 <h2> Trip #3: Paris </h2>
 <p> watched euphoria with elinna liu while doing dbq stuff </p>
@@ -36,7 +36,6 @@ body {background:#ADD8E6;}
 
 <h1> <em> Want to See More travel Photos? </em> </h1>
 <a href="./gallery"><h2>Click here to see Alex's Travel Photos</h2></a>
-
 
 
 
