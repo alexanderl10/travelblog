@@ -173,7 +173,7 @@ The culinary scene in León was a true highlight of my trip. From savoring delic
 My journey to León, Mexico, was a tapestry woven with threads of history, tradition, and contemporary flair. The city's warm and welcoming atmosphere, vibrant culture, and delicious cuisine left me with lasting memories. As I bid adieu to this enchanting destination, I knew that I had uncovered just a fraction of its hidden treasures. León, you've found a special place in my heart, and I look forward to returning to explore even more of your charm. ¡Hasta pronto, León! </p> 
 <br>
 
-<h2> Future Trip: Prague </h2><br>
+<h2> Future Trip: Prague </h2>
 <p>The trip will be TBD (probably happening in Spring Break of 2024 but maybe not</p>
 
 <h1> <em> Want to See More Travel Photos? </em> </h1>
