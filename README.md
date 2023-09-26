@@ -33,7 +33,9 @@ body {background:#ADD8E6;}
 <p> gonna do activity with sibs, and she gave me chanel bag like wtf but thanks g </p> 
 
 <h2> Future Trip: Tokyo </h2>
-<p> gonna prob watch lecture and do hw and hopefully class does not find out bday or else gonna start singing and then smh </p>
+
+<h1> <em> Gallery Pictures of Travel Photos </em> </h1>
+
 
 
 </html>
