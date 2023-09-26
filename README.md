@@ -138,7 +138,7 @@ In contrast to the bustling streets, Daan Forest Park offered a serene retreat i
 
 My journey through Taipei was a tapestry woven with threads of tradition, modernity, and natural splendor. The city's striking contrast between historic temples and towering skyscrapers, flavorful street food and cultural richness, created an unforgettable experience. As I bid farewell to this captivating city, I carried with me the warmth of its people and the memories of an incredible adventure. Taipei, you've left an indelible mark on my heart. Until we meet again! </p><br>
 
-<img src="IMG-3281.jpg" width="800" height="600">
+<img src="IMG-3281.JPG" width="800" height="600">
 
 <h2> Trip #5: Leon, Mexico </h2> 
 <p> Nestled in the heart of Guanajuato, Mexico, León is a vibrant city known for its rich culture, stunning architecture, and warm-hearted locals. My recent trip to this charming destination was a journey of discovery and adventure. Here's a glimpse into my unforgettable experiences in León, Mexico.<br>
