@@ -69,7 +69,7 @@ London's vast green spaces provided a serene escape from the city's hustle and b
 <b>Conclusion: A Tale of Two Cities in One</b><br>
 
 My trip to London was a blend of history and modernity, tradition and innovation. The city's timeless charm, iconic landmarks, and warm-hearted people left a lasting impression. As I bid adieu to this captivating metropolis, I carried a piece of London in my heart, knowing that its allure will always beckon me to return and explore more of its hidden treasures. London, you have my heart. Until we meet again! </p><br>
-<img src="https://mail.google.com/mail/u/0?ui=2&ik=3e1c58b286&attid=0.1.1&permmsgid=msg-f:1778068196874143728&th=18acf79abd1a47f0&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ9Pa9qszx05TENHlc5SE6DCbJQo1tQ7MVgr1a_mTxEk4GOc12pK15YBBBPSLi1dufGbK4g5JCmw6McdlVvkTvDOXoRyvMLhdiJXT0554R-dcxJhFspu2nWT4ys&disp=emb" width="800" height="600">
+<img src="https://github.com/alexanderl10/travelblog.github.io/blob/main/IMG-4312.jpg" width="800" height="600">
 
 <h2> Trip #3: Paris, France </h2>
 <p> Paris, the city of love, has always held an undeniable allure for me. From the moment I set foot in the City of Light, I was swept away by its charm, elegance, and rich history. Here's a glimpse into my whirlwind adventure through Paris, a city that captured my heart. <br>
@@ -105,7 +105,7 @@ No trip to Paris is complete without savoring its delectable cuisine. From butte
 <b>Conclusion: An Ode to Paris</b><br>
 
 My journey through Paris was a poetic symphony of art, history, romance, and exquisite cuisine. The city's beauty, culture, and sophistication were a marvel to behold, and I left with a promise to return someday. Paris had cast its spell on me, and I knew I would forever cherish the memories made in this enchanting city. À bientôt, Paris! </p><br>
-<img src="https://mail.google.com/mail/u/0?ui=2&ik=3e1c58b286&attid=0.1.1&permmsgid=msg-f:1778068172968381397&th=18acf7952c354bd5&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ-6MZstNMVtB4Ue3i5BM4D0bwrmjLEBGyQkZtfQhMynI69gFAk7N_5a8SsMbAXQtWWGawlnNzxKdZsxCVVcTuHRvCJhzaDT9gmgtUiJM8fuLnzd40mpbp4rlt4&disp=emb" width="500" height="600">
+<img src="https://github.com/alexanderl10/travelblog.github.io/blob/main/IMG-4420.jpg" width="500" height="600">
 
 <h2> Trip #4: Taipei, Taiwan </h2> 
 <p> Taipei, the bustling capital of Taiwan, is a city that marries rich history and modernity seamlessly. Exploring this vibrant metropolis was an adventure I'll forever cherish. Here's a glimpse into my enthralling journey through the heart of Taipei.<br>
