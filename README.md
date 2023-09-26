@@ -37,7 +37,7 @@ For a perfect end to my days, I would head to Haleiwa Beach Park on Oahu's North
 
 My trip to Honolulu, Hawaii, was more than just a vacation; it was a transformative experience. Honolulu offered a captivating blend of natural beauty, history, culture, and unforgettable moments. I left the island with a piece of my heart and a promise to return someday to explore even more of this paradise on Earth. Aloha, Hawaii – until we meet again! </p> <br>
 
-<img src="IMG-3444.jpg" width="500" height="600">
+<img src="IMG-3444.jpg" width="800" height="600">
 
 <h2> Trip #2: London, England </h2>
 <p> London, the bustling and historic capital of the United Kingdom, has always held a special place on my travel bucket list. Finally, the stars aligned, and I embarked on a journey that would introduce me to the vibrant tapestry of this iconic city. Here's a glimpse into my unforgettable trip to London.<br>
@@ -138,7 +138,7 @@ In contrast to the bustling streets, Daan Forest Park offered a serene retreat i
 
 My journey through Taipei was a tapestry woven with threads of tradition, modernity, and natural splendor. The city's striking contrast between historic temples and towering skyscrapers, flavorful street food and cultural richness, created an unforgettable experience. As I bid farewell to this captivating city, I carried with me the warmth of its people and the memories of an incredible adventure. Taipei, you've left an indelible mark on my heart. Until we meet again! </p><br>
 
-<img src="IMG-3281.jpg" width="500" height="600">
+<img src="IMG-3281.jpg" width="800" height="600">
 
 <h2> Trip #5: Leon, Mexico </h2> 
 <p> Nestled in the heart of Guanajuato, Mexico, León is a vibrant city known for its rich culture, stunning architecture, and warm-hearted locals. My recent trip to this charming destination was a journey of discovery and adventure. Here's a glimpse into my unforgettable experiences in León, Mexico.<br>
@@ -172,7 +172,7 @@ The culinary scene in León was a true highlight of my trip. From savoring delic
 My journey to León, Mexico, was a tapestry woven with threads of history, tradition, and contemporary flair. The city's warm and welcoming atmosphere, vibrant culture, and delicious cuisine left me with lasting memories. As I bid adieu to this enchanting destination, I knew that I had uncovered just a fraction of its hidden treasures. León, you've found a special place in my heart, and I look forward to returning to explore even more of your charm. ¡Hasta pronto, León! </p> 
 <br>
 
-<img src="IMG-5774.jpg" width="500" height="600">
+<img src="IMG-5774.jpg" width="800" height="600">
 
 <h2> Future Trip: Prague </h2>
 <p>The trip will be TBD (probably happening in Spring Break of 2024 but maybe not</p>
